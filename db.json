@@ -1,0 +1,7 @@
+{
+  "clients": [
+    { "name": "Sam", "phone": "0672399004" },
+    { "name": "John", "phone": "123413512" },
+    { "name": "Sindy", "phone": "124124134" }
+  ]
+}
